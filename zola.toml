@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://samuelw3068.netlify.app/"
 title = "Samuel's Personal Page"
 author = "Samuel Wade Wang"
 theme = "radion"
